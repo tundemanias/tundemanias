@@ -1,7 +1,7 @@
 ![Design and Development](https://github.com/tundemanias/portfolio/raw/portfolio/background%20image.png)
 
 # Awolode Babatund
-I'm Awolode babatunde from Nigeria, and i love working with others to achieve a certain objective on time and I enjoy working with a variety of different people to achieve their goals and objectives while developing new skills and building a healthy relationship
+I'm Awolode babatunde from Nigeria, and i love working with others to achieve a certain objective on time and I enjoy working with a variety of different people to achieve their goals and objectives while developing new skills and building a healthy relationship.
 
 ## Skill and Experience
 * 💻 HTML, CSS, JS
